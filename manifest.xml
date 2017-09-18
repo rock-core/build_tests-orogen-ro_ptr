@@ -1,0 +1,7 @@
+<package>
+  <description brief="Build test for orogen's ro_ptr feature">
+  </description>
+  <author>Sylvain Joyeux/sylvain.joyeux@13robotics.com</author>
+  <license>MIT</license>
+  <depend package="base/orogen/types" />
+</package>

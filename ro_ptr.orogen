@@ -1,0 +1,8 @@
+name 'ro_ptr'
+
+import_types_from 'base'
+
+task_context 'Task' do
+    output_port 'out', ro_ptr('/base/samples/frame/Frame')
+end
+
